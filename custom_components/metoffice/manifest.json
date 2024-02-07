@@ -7,5 +7,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["datapoint"],
   "requirements": ["datapoint @ git+https://github.com/amanning9/datapoint-python.git@update-versioneer"],
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
