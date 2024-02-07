@@ -34,8 +34,7 @@ from .const import (
 from .data import MetOfficeData
 from .helpers import fetch_data, fetch_site
 
-if sys.version_info < (3, 12):
-    import datapoint
+import datapoint
 
 _LOGGER = logging.getLogger(__name__)
 
